@@ -40,7 +40,7 @@
 - 💡 *Philosophy*: Committed to continuous innovation through code  
 - ⚡ *Fun Fact*: I love coding and creating beautiful, creative, and animated websites!  
 -->
----
+
 
 
 ### 🛠 Skills and Tech Stack:
