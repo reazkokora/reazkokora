@@ -125,7 +125,7 @@
 
 
 ---
-
+<!--
 <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2>
 
@@ -135,3 +135,4 @@
 ---
 
 ### 💡 Let's Create Something Amazing Together!
+-->
