@@ -1,4 +1,4 @@
-<img src="images/bg/CoverImage.jpg" alt="GitHub Banner" width="100%" />
+<img src="CoverImage.jpg" alt="GitHub Banner" width="100%" />
 
 <!-- Social Links -->
 <div align="center">
