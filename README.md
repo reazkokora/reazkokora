@@ -39,15 +39,12 @@
 - 🚀 *Mission*: Crafting exceptional web experiences  
 - 💡 *Philosophy*: Committed to continuous innovation through code  
 - ⚡ *Fun Fact*: I love coding and creating beautiful, creative, and animated websites!  
-
----
 -->
+---
+
 
 ### 🛠 Skills and Tech Stack:
-### 🛠 Skills and Tech Stack:
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333" alt="JavaScript">
+
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
