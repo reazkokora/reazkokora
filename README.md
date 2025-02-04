@@ -28,7 +28,7 @@
     <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D2D3&width=800&lines=🌍+Hello+World!+I'm+Md.+Reazul+Islam;A+Professional+IT+Expert+Base+Payroll+&+%F0%9F%9A%80;ERP+Garments+&+Textile" alt="Typing Animation" />
   </span>
 </h1>
----
+
 <!--
 ### A Professional Web Developer 🚀  
 - 🛜 *Currently working on*: [Webpage](https://foritbd.com/)  
